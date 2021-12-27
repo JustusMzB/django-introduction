@@ -1,0 +1,12 @@
+testproject/__pycache__/__init__.cpython-37.pyc
+testproject/__pycache__/settings.cpython-37.pyc
+testproject/__pycache__/urls.cpython-37.pyc
+testproject/__pycache__/wsgi.cpython-37.pyc
+testapp/__pycache__/__init__.cpython-37.pyc
+testapp/__pycache__/admin.cpython-37.pyc
+testapp/__pycache__/apps.cpython-37.pyc
+testapp/__pycache__/models.cpython-37.pyc
+testapp/__pycache__/urls.cpython-37.pyc
+testapp/__pycache__/views.cpython-37.pyc
+testapp/migrations/__pycache__/__init__.cpython-37.pyc
+testapp/migrations/__pycache__/0001_initial.cpython-37.pyc
