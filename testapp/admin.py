@@ -1,3 +1,4 @@
 from django.contrib import admin
+from .models import HttpCall, Parameter
 
-# Register your models here.
+admin.site.register([HttpCall, Parameter])
